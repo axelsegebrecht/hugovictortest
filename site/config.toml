@@ -45,8 +45,8 @@ paginate = 3
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Finding straight-forward solutions in complex webs of issues."
+		content = "Seeing a clear path and understanding which option to choose is what I have done for individual professionals, directors and large enterprises such as Universities. You can rely on me from a big web project, managing a portfolio of projects to aligning business processes to leverage the latest technology."
 
 
 	[params.portfolio]
@@ -98,7 +98,7 @@ paginate = 3
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Securely encrypted channels are available if desired. Please send a text message to my phone number of find me on Signal, Telegram or iMessage."
+		content = "Securely encrypted communication is available if requested. Please send a text message to my phone number or find me on Signal, Telegram or iMessage. The form on this website is provided for your convenience and is using SSL. Your message is send in the open and is not encrypted."
 
 		address = [
 			"Bletchley",
