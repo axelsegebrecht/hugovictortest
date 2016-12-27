@@ -51,31 +51,33 @@ paginate = 3
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Highlights"
+		description = "Some of my recent engagments."
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Student Portal"
-			description = "Defined strategy and execution"
+			title = "Cranfield University"
+			description = "Programme management, business processes definition and supporting digital strategy."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Enterprise web project"
-			description = "Project lead on Sitecor XP8 corporate website"
+			title = "The University of Northampton"
+			description = "Creation of governance groups and formation of new digital function."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Strategic advice"
-			description = "Lorem ipsum dolor sit amet."
+			title = "Bright Light Industries"
+			description = "Digital strategy and tactical support pre- and post funding for investments."
 
 	[params.recentposts]
 		hide  = false
 		title = "Recent articles"
+		description = "I write to share knowledge and add value. Be sure to subscribe to my low-volume newsletter for conveniently reading the latest pieces."
 
 	[params.contact]
 		hide  = false
@@ -106,7 +108,6 @@ paginate = 3
 			# Set custom strings for the form if your native
 			# language isn't English
 			email = "Email"
-			mobile = "Mobile phone number"
 			name = "Name"
 			message = "Message"
 			submit = "Send message"

@@ -2,6 +2,8 @@
     {{ with .Site.Params.recentposts.title }}
         <h2>{{ . }}</h2>
     {{ end }}
+ 
+	{{ with .Site.Params.recentposts.description }}<p>{{ . | markdownify }}</p>{{ end }}
 
 	<div class="row">
         <br>
