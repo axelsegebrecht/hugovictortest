@@ -15,7 +15,7 @@ paginate = 3
 	description = "Holistic digital problem-solver"
 
 	# Format dates with Go's time formatting
-	date_format = "2000-01-02"
+	date_format = "2006-01-02"
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
@@ -58,42 +58,24 @@ paginate = 3
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Student Portal"
+			description = "Defined strategy and execution"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Enterprise web project"
+			description = "Project lead on Sitecor XP8 corporate website"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Strategic advice"
 			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent blog posts"
+		title = "Recent articles"
 
 	[params.contact]
 		hide  = false
@@ -123,8 +105,9 @@ paginate = 3
 		[params.contact.form]
 			# Set custom strings for the form if your native
 			# language isn't English
-			name = "Name"
 			email = "Email"
+			mobile = "Mobile phone number"
+			name = "Name"
 			message = "Message"
 			submit = "Send message"
 
