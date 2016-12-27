@@ -24,9 +24,9 @@ paginate = 3
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "asset.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Axel**, a digital consultant who takes a holistic approach to solving complex business problem."
+		bio = "**I'm Axel**, a digital consultant who takes a holistic approach to solving complex business problems."
 		# The icons will be shown if you enter your username
 		twitter = "axelsegebrecht"
 		github = "axelsegebrecht"
@@ -38,8 +38,8 @@ paginate = 3
 
 		copyright = [
 			"Content and code available under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (BY-NC-SA) by Axel Segebrecht, unless stated otherwise",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Images: [Unsplash](//unsplash.com/)"
+			"Design based on [HTML5 UP](//html5up.net)",
+			"A lot of images supplied by [Unsplash](//unsplash.com/)"
 		]
 
 
@@ -98,14 +98,14 @@ paginate = 3
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "Securely encrypted channels are available if desired. Please send a text message to my phone number of find me on Signal, Telegram or iMessage."
 
 		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
+			"Bletchley",
+			"Milton Keynes, MK2",
+			"United Kingdom"
 		]
-		phone = "000-000-0000"
+		phone = "+44.7794132161"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -118,7 +118,7 @@ paginate = 3
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "axel@segebrecht.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
