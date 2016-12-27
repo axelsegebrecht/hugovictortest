@@ -45,8 +45,10 @@ paginate = 3
 
 	[params.about]
 		hide  = false
-		title = "Finding straight-forward solutions in a  complex web of issues."
-		content = "Seeing a clear path and understanding which option to choose is what I have done for over 15 years whilst working dedicatedly with individual professionals, directors and large enterprises such as Universities. You can rely on me from a big web project, managing a portfolio of projects to aligning business processes to leverage the latest technology."
+		title = "Finding straight-forward solutions to complex questions"
+		content = "Seeing a clear path and understanding which option to choose is what I have done for over 15 years whilst working dedicatedly with individual professionals, directors and large enterprises such as Universities. You can rely on me from a big web project, managing a portfolio of projects to aligning business processes to leverage the latest technology.
+		
+		I work ad-hoc or as part of a longer term project, easily from remote or on-site. Get in touch to find out more."
 
 
 	[params.portfolio]
